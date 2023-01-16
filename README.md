@@ -89,7 +89,3 @@ $ git push origin your-feature
 ```
 
 After your pull request is merged, you can delete your branch
-
-## 📝 License
-
-This project is under the MIT license. See the [LICENSE](https://github.com/eltonlazzarin-dev/github-commit-history-reactjs/blob/main/LICENSE) for more information.
